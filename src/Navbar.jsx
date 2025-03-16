@@ -5,7 +5,7 @@ export const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
 
   return (
-    <nav className="w-full fixed top-0 left-0 z-50 h-12.5 flex items-center bg-gradient-to-r from-[#000] via-[#433f3f] to-indigo-600 
+    <nav className="w-full fixed top-0 left-0 z-50 h-12.5 flex items-center bg-gradient-to-r from-[#000] via-[#3d0935] to-indigo-900 
                    bg-[length:400%_400%] animate-[gradientAnimation_5s_infinite_alternate] shadow-lg">
       
       <div className="max-w-7xl mx-auto flex justify-between items-center w-full px-6 sm:px-8 md:px-12 lg:px-20 py-3 md:py-4">
